@@ -3,12 +3,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Luiz Gustavo Yoneyama Mourthe
+Matricula: 902709
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![screenshot](images/screenshot.png)
 
 
 
